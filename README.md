@@ -1,2 +1,3 @@
-## 🎰 Simple bot de economía con tienda personalizable, usando discord-economy-super. (mongoose)
+## 🎰 Simple bot de economía
+- + Tienda personalizable, usando discord-economy-super. (mongoose)
 # (!) Beta tester
